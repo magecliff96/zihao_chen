@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Zihao Chen]!
+# 👋 Hi, I'm Zihao Chen!
 
 I'm a lifelong student passionate about exploring human insight and machine logic. I work with data, code, and creative ideas to bring meaningful things to life.
 

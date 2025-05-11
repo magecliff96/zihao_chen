@@ -8,7 +8,6 @@ I'm a lifelong student passionate about exploring human insight and machine logi
 
 - **Languages**: Python, R
 - **ML & Data Science**: Scikit-learn, PyTorch, TensorFlow
-- **Data Viz & Web**: Shiny, ggplot2, D3.js, React
 - **Tools**: Git, Docker, VSCode, Jupyter, LaTeX
 
 ---
